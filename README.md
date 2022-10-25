@@ -1,2 +1,2 @@
 # Servlet-Implimentation
-This repo  has actual implementation of servlets.
+This repository  has actual implementation of servlets.
